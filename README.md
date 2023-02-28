@@ -1,16 +1,20 @@
-### Hi there 👋
+### OLÁ! Prazer, Cristian Kreuz Engel🎩
 
-<!--
-**CristianKreuzEngel/CristianKreuzEngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou trabalhando atualmente como Técnico em TI;
+- 🌱 Estou cursando o 3º semestre em Sistemas de Informação;
+- 🕹 No tempo livre programo jogos nas engine:
+    * GameMaker Studio 2;
+    * Unity;
+- 👨🏼‍💻 Linguages que tenho afinidade:
+    - Javascript;
+    - C#;
+    - Python;
+    - PHP;
+    - C;
+    - C++
+    
+<div align="center">
+  <a href="https://github.com/CristianKreuzEngel">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianKreuzEngel&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianKreuzEngel&layout=compact&langs_count=7&theme=great-gatsby">
+</div>
