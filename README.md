@@ -11,7 +11,7 @@
     - Python;
     - PHP;
     - C;
-    - C++
+    - C++;
     
 <div align="center">
   <a href="https://github.com/CristianKreuzEngel">
