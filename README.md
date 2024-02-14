@@ -1,6 +1,6 @@
 ### OLÁ! Prazer, Cristian Kreuz Engel🎩
 ##
-- 🔭 Estou trabalhando atualmente como Técnico em TI;
+- 🔭 Estou trabalhando atualmente como Desenvolvedor Fullstack;
 - 🌱 Estou cursando o 5º semestre em Sistemas de Informação;
 - 🕹 No tempo livre programo jogos nas engine:
     * <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" /> GameMaker Studio 2;
