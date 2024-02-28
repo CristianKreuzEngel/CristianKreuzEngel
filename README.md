@@ -2,9 +2,6 @@
 ##
 - 🔭 Estou trabalhando atualmente como Desenvolvedor Fullstack;
 - 🌱 Estou cursando o 5º semestre em Sistemas de Informação;
-- 🕹 No tempo livre programo jogos nas engine:
-    * <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" /> GameMaker Studio 2;
-    * <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> Unity;
 - 👨🏼‍💻 Linguagens que tenho afinidade:
     - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Javascript;
     - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> C#;
