@@ -1,7 +1,7 @@
 ### OLÁ! Prazer, Cristian Kreuz Engel🎩
 ##
 - 🔭 Estou trabalhando atualmente como Desenvolvedor Fullstack;
-- 🌱 Estou cursando o 6º semestre em Sistemas de Informação;
+- 🌱 Estou cursando o 7º semestre em Sistemas de Informação;
 - 👨🏼‍💻 Tecnologias que tenho afinidade:
     - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> Nodejs;
     - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> C#;
